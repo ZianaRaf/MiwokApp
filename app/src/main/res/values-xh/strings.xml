@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--xhosa translations-->
+    <string name="app_name">Xhosa</string>
+    <string name="eight">sibhozo</string>
+    <string name="five">Ntlanu</string>
+    <string name="four">ne</string>
+    <string name="nine">sithoba</string>
+    <string name="one">nye</string>
+    <string name="seven">sibhozo</string>
+    <string name="six">ntandathu</string>
+    <string name="ten">shumi</string>
+    <string name="three">ntathu</string>
+    <string name="two">mbini</string>
+</resources>
